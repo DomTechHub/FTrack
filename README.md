@@ -49,9 +49,9 @@
 
 <div align="center">
 
-| Home Screen                               | Daily Breakdown                            | Add Expense                              |
+| Home Screen                               | Add Period Screen                          | Add Expense                              |
 | ----------------------------------------- | ------------------------------------------ | ---------------------------------------- |
-| ![Home](https://placehold.co/250x500/png) | ![Daily](https://placehold.co/250x500/png) | ![Add](https://placehold.co/250x500/png) |
+| <img src="assets/images/Home%20Screen.png" width="250" height="500"/> | <img src="assets/images/Home%20Screen.png" width="250" height="500"/> | ![Add](https://placehold.co/250x500/png) |
 
 </div>
 
