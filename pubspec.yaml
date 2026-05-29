@@ -1,0 +1,41 @@
+name: fintrack
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^21.0.0
+  flutter_native_splash: ^2.4.7
+  path: ^1.9.1
+  path_provider: ^2.1.5
+  sqflite: ^2.4.2+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/ft_logo.png"
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/ft_logo.png
+
+  android_12:
+    image: assets/images/ft_logo.png
+    color: "#ffffff"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
