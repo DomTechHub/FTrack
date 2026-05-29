@@ -43,11 +43,6 @@
 * Local notification support
 * Smooth user feedback experience
 
-## 📄 PDF Export
-
-* Export expense history as PDF
-* Share financial reports easily
-
 ---
 
 # 📱 App Preview
