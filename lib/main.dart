@@ -16,6 +16,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
+    //Colour scheme for various purposes
     final greenScheme = ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 28, 117, 31)).copyWith(
       primaryContainer: const Color.fromARGB(255, 28, 117, 31),
       secondaryContainer: const Color.fromARGB(255, 20, 100, 243)
