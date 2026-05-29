@@ -49,9 +49,9 @@
 
 <div align="center">
 
-| Home Screen                               | Add Period Screen                          | Add Expense                              |
+| Home Screen                               | Add Period Screen                          | Expenses Screen                          |
 | ----------------------------------------- | ------------------------------------------ | ---------------------------------------- |
-| <img src="assets/images/Home%20Screen.png" width="250" height="500"/> | <img src="assets/images/Home%20Screen.png" width="250" height="500"/> | ![Add](https://placehold.co/250x500/png) |
+| <img src="assets/images/Home%20Screen.png" width="250" height="500"/> | <img src="assets/images/Add%20Period%20Screen.png" width="250" height="500"/> | <img src="assets/images/Expenses%20Screen.png" width="250" height="500"/> |
 
 </div>
 
